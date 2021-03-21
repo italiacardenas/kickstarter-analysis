@@ -13,10 +13,10 @@
    From a pivot table created with Parent Category: Theater filter and Year filter, a line graph was created titled: Theater Outcomes Based on Launch Date. To identify the relationship between the number of successful, failed, and canceled Theater campaigns and their launch dates.  
    ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
    The analysis shows: 
-    1. Throughout the years 2009 to 2017 at any given month of the year less than 10 theater campaigns were canceled. 
-    2. The month of May had the highest count of successful campaigns from 2009-2017.
-    3. The years 2010-2013 had a 100% Theater campaign success rate. 
-    4. By the year 2017, the number of Theater campaigns launched had signifcantly decreased. 
+   1. Throughout the years 2009 to 2017 at any given month of the year less than 10 theater campaigns were canceled. 
+   2.  The month of May had the highest count of successful campaigns from 2009-2017.
+   3.  The years 2010-2013 had a 100% Theater campaign success rate. 
+   4.  By the year 2017, the number of Theater campaigns launched had signifcantly decreased. 
 
 ### Analysis of Outcomes Based on Goals
   A line graph was created to determine the relationship between the campaign goal amount and the percentage of successful, failed, and canceled plays. 
