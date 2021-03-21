@@ -11,7 +11,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
    From a pivot table created with Parent Category: Theater filter and Year filter, a line graph was created titled: Theater Outcomes Based on Launch Date. To identify the relationship between the number of successful, failed, and canceled Theater campaigns and their launch dates.  
-   ![Theater_Outcomes_vs_Launch](/Users/italiathe2nd/Desktop/UCB/GitHub/Crowdfunding_Analysis/Resources/Theater_Outcomes_vs_Launch.png)
+   ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
    The analysis shows: 
     1. Throughout the years 2009 to 2017 at any given month of the year less than 10 theater campaigns were canceled. 
     2. The month of May had the highest count of successful campaigns from 2009-2017.
@@ -20,7 +20,7 @@
 
 ### Analysis of Outcomes Based on Goals
   A line graph was created to determine the relationship between the campaign goal amount and the percentage of successful, failed, and canceled plays. 
-  ![Outcomes_vs_Goals](/Users/italiathe2nd/Desktop/UCB/GitHub/Crowdfunding_Analysis/Resources/Outcomes_vs_Goals.png)
+  ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
   The analysis shows:
   1. That zero percent of plays campaigns were cancelled.
   2. Campaigns that had a goal less than $1,000 had the highest success rate.
